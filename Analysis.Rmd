@@ -1,0 +1,17 @@
+---
+title: "Crowd-Sourced Data Analysis"
+author: "Cath Lewis"
+date: "21/05/2019"
+output: html_document
+---
+
+## Load data
+
+Our group of scantily clad scientists selected the 'faithful' dataset.
+
+```{r}
+df <- faithful
+
+```
+
+cheeky code for the faithful
